@@ -26,7 +26,7 @@ const Header = () => {
             className="h-8 md:h-10 object-contain"
           />
           <span className="text-xl md:text-2xl font-semibold">
-            Four Squares FM
+            Four Squares 
           </span>
         </div>
 
