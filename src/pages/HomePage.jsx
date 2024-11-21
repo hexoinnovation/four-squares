@@ -3,7 +3,7 @@ import { FaArrowUp } from "react-icons/fa"; // For back-to-top button
 import AboutUs from "../components/AboutUs";
 import Features from "../components/Features"; // Updated Features Section
 import HeroSection from "../components/HeroSection";
-import Navigation from "../components/Navigation"; // New navigation bar component
+
 import ServicesPreview from "../components/ServicesPreview";
 import Testimonials from "../components/Testimonials";
 
@@ -11,7 +11,7 @@ const HomePage = () => {
   return (
     <div className="font-sans bg-gray-100">
       {/* Navigation Bar */}
-      <Navigation />
+   
 
       {/* Hero Section */}
       <HeroSection />
